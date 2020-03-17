@@ -1,6 +1,6 @@
 package edu.htu.lesson1;
 
-public class Test2 {
+public class PrimitevesTest {
 
 	public static void main(String[] args) {
 		//local variable: variable defined inside a function/method
