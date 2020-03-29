@@ -23,8 +23,8 @@ public class DataTypes5 {
 		
 		System.out.println("===========");
 		int i2=200; //00000000 00000000 00000000  11001000  
-		byte b2=(byte) i2;// 11000000: convert to decimal??
-				
+		byte b2=(byte) i2;
+		
 		System.out.println(b2);
 	}
 }
