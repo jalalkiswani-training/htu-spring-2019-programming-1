@@ -24,7 +24,10 @@ public class DataTypes5 {
 		System.out.println("===========");
 		int i2=200; //00000000 00000000 00000000  11001000  
 		byte b2=(byte) i2;
-		
+		//00110111
+		//+1
+		//111000
+		//32 16 8   
 		System.out.println(b2);
 	}
 }
