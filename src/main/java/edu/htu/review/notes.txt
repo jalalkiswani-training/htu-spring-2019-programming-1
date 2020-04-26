@@ -1,0 +1,31 @@
+1- Java Project/Maven Project
+2- Find resource , project, right click, properties, location --> 
+3- src /// Java files  .java
+4- packages (folder structure ) should match the first line in the class
+5- 
+	part 1 : package format (domain type "edu,com,gov,mil,org")
+	part 2: entity name 
+	part 3: system name 
+	part 4: component name 
+
+edu.htu.programming.lesson7
+
+
+6- The IDE (Integrated Development Environment)
+	6.1******* Life without IDE
+	6.1.1 Coding using TextEditor (notepad++)
+	6.1.2 Compilation -- Compiler ,  JDK (Java Development Kit 1.8 or above)
+		will use the the command line (Console) and use DOS commands for windows
+		, shell/unix commands 
+		command:   javac Test.java ===>   Test.class (exectuable)
+		- why the extensoin is ".class" not ".exe"? because Java is platform indepedent
+		
+	6.1.3 Execution: JRE (Java runtime environment) 
+	
+	6.2 **************Life with IDE:
+	6.2.1 - Project Management (with many classes and other resources)
+	6.2.2 - Auto compilation
+		  - Simple execution 
+		  - Refactoring
+		  - Code assistance 	 
+	
