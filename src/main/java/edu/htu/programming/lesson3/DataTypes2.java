@@ -1,4 +1,4 @@
-package edu.htu.lesson3;
+package edu.htu.programming.lesson3;
 
 import java.util.Scanner;
 

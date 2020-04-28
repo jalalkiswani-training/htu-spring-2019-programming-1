@@ -1,4 +1,4 @@
-package edu.htu.lesson5;
+package edu.htu.programming.lesson5;
 
 public class Perfromance1 {
 	public static void main(String[] args) throws InterruptedException {

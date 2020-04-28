@@ -1,4 +1,4 @@
-package edu.htu.lesson4;
+package edu.htu.programming.lesson4;
 
 import java.time.Duration;
 import java.time.Instant;

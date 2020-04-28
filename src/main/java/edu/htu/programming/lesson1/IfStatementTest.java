@@ -1,4 +1,4 @@
-package edu.htu.lesson1;
+package edu.htu.programming.lesson1;
 
 public class IfStatementTest {
 	public static void main(String[] args) {

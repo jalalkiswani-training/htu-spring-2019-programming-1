@@ -1,4 +1,4 @@
-package edu.htu.lesson6;
+package edu.htu.programming.lesson6;
 
 public class Methods2 {
 	public static void main(String[] args) {

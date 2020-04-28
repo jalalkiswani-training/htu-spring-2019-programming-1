@@ -1,6 +1,6 @@
-package edu.htu.lesson1;
+package edu.htu.programming.review;
 
-public class Test1 {
+public class Test {
 	public static void main(String[] args) {
 		System.out.println("Hello");
 	}

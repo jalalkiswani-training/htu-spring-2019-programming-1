@@ -1,4 +1,4 @@
-package edu.htu.lesson3;
+package edu.htu.programming.lesson3;
 
 public class DataTypes5 {
 	public static void main(String[] args) {
