@@ -26,7 +26,7 @@ public class DataTypes {
 		/*classes
 		To use the classes, we should make a constrcution through the "new" keyword
 		Scanner: ClassName
-		s: variable name
+		s: variable name/reference
 		new Scanner(System.in): construction through calling the Scanner constructor that accepts InputStream paramter 
 		*/
 		Scanner scanner=new Scanner(System.in);
